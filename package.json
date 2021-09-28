@@ -1,0 +1,14 @@
+{
+  "name": "awardco",
+  "version": "1.0.0",
+  "description": "automation tests on www.award.co",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Hyrum Haynes",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
+}
